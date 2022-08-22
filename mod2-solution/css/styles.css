@@ -8,7 +8,6 @@
 h1 {
   text-align: center;
   color: rgb(74,66,71);
-  font-size: 175%;
 }
 
 /* Simple Responsive Framework. */
@@ -158,7 +157,6 @@ h4 {
   padding: 5px 50px;
   margin-top: 0px;
   color: rgb(250,248,242);
-  font-size: 125%;
 }
 
 
@@ -180,5 +178,4 @@ p {
   padding-left: 20px;
   color: rgb(74,66,71);
   background-color: #cabeb3;
-  font-size: 100;
 }
